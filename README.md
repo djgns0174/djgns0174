@@ -1,4 +1,4 @@
-# Hi, I'm Joo Ye-hoon 👋
+# Joo Ye-hoon 👋
 
 I am a software engineer who values **strong fundamentals**.  
 I strive to become a better version of myself each day and pursue **continuous learning**, slowly but steadily.  
